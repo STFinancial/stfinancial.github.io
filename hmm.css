@@ -82,4 +82,17 @@ li.nav-bar-link {
 	/*position: absolute;*/
 	/*bottom: 0;*/
 	width: 100%;
+	padding-bottom: 10px;
+}
+
+#nav-footer-next {
+	text-align: center;
+	display: inline-block;
+	width: 45%;
+}
+
+#nav-footer-previous {
+	text-align: center;
+	display: inline-block;
+	width: 45%;
 }
